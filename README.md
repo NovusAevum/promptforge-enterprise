@@ -321,19 +321,19 @@ This project is licensed under the Enterprise License - see the [LICENSE](LICENS
 
 ## 👨💻 Author
 
-**Wan Mohamad Hanis (NovusAevum)**  
-*Principal Software Engineer & AI Systems Architect*
+**Wan Mohamad Hanis Bin Wan Hassan (NovusAevum)**  
+*Polymath: Full-Stack Developer | AI Engineer | Performance Marketing | OSINT | Offensive Cybersecurity*
 
 - 🌐 GitHub: [@NovusAevum](https://github.com/NovusAevum)
 - 💼 LinkedIn: [Wan Mohamad Hanis](https://linkedin.com/in/wanmohamadhanis)
-- 📧 Email: hanis@novusaevum.com
-- 🏢 Company: NovusAevum Technologies
+- 📧 Email: wmh2u@proton.me
 
 ### Expertise
-- **AI/ML Engineering**: 8+ years in enterprise AI systems
-- **Cloud Architecture**: AWS, Azure, GCP certified solutions architect
-- **DevOps**: Kubernetes, Docker, CI/CD pipeline optimization
-- **Security**: Zero-trust architecture and compliance frameworks
+- **Full-Stack Development**: End-to-end web/mobile apps, app store deployment, programmatic marketing
+- **AI Engineering**: Model training, MLOps, LLM integration, AI system architecture
+- **Performance Marketing**: Campaign optimization, search ads, programmatic advertising, analytics
+- **OSINT Techniques**: Advanced reconnaissance, threat intelligence, social media intelligence
+- **Offensive Cybersecurity**: Red-teaming, penetration testing, vulnerability assessment, exploit development
 
 ---
 
